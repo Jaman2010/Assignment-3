@@ -1,0 +1,109 @@
+body{
+
+margin: 0;
+
+height: 1000px;
+}
+
+
+.container{
+
+width: 1300px;
+
+height: 800px;
+
+background: #ffd4a5;
+
+margin: 50px auto;
+}
+
+.box1{
+
+width: 33.33%;
+
+height: 200px;
+
+background: green;
+
+float: left;
+}
+
+.box2{
+
+width: 100%;
+
+height: 200px;
+
+background: blue;
+
+float: left;
+}
+
+.box3{
+
+width: 50%;
+
+height: 200px;
+
+background: #ab409d;
+
+float: left;
+}
+
+.box4{
+
+width: 66.66%;
+
+height: 200px;
+
+background: maroon;
+
+float: left;
+}
+
+.box5{
+
+width: 16.67%;
+
+height: 200px;
+
+background: magenta;
+
+float: left;
+}
+
+.green{
+	background: seagreen;
+}
+
+.purple{
+	background: purple;
+}
+
+.black{
+	background: black;
+}
+
+.crimson{
+	background: crimson;
+}
+
+.skyblue{
+	background: skyblue;
+}
+
+.maroon{
+	background: maroon;
+}
+
+.purple{
+	background: purple;
+}
+
+.orange{
+	background: orange;
+}
+
+.gold{
+	background: gold;
+}
